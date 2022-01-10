@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Đào Mạnh Cường. I study Computer Science at Hanoi University of Science and Technology.
+- 👋 Hi, I’m Dao Manh Cuong. I study Computer Science at Hanoi University of Science and Technology.
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DL
-- 💞️ I want to become a VinAI researcher
-- 📫 Contact me : Phone number: 0962953421
-                  Email Address: daomanhcuong2001@gmail.com
+- 📫 Contact me:  Email Address: daomanhcuong2001@gmail.com
                   Outlook: cuong.dm193998@sis.hust.edu.vn
 
 <!---
